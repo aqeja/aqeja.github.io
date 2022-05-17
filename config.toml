@@ -1,0 +1,4 @@
+baseURL = "https://aqeja.github.io/"
+languageCode = "en-us"
+title = "Minds"
+theme = "hugo-paper-main"
